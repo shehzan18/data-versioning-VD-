@@ -1,0 +1,7 @@
+1 create mycode.py having python code
+2 install dvc
+3 git add and commit "first commit before dvc"
+
+4 dvc init :- will create folder .dvc and a .dvcignore file 
+
+5>  make a folder named S3  (command - mkdir S3)
